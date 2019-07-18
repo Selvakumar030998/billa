@@ -1,0 +1,2 @@
+NIvi=input()
+print(NIvi)
