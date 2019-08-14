@@ -1,4 +1,4 @@
 import sys, string, math
-p,n,r = map(int,input().split())
-intr = p*n*r//100
-print(intr)
+a,b = map(int,input().split())
+L = list(map(int,input().split()))
+print(L[b-1])
